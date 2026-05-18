@@ -49,6 +49,20 @@ const rym = {
 
 ---
 
+### 📬 contato & redes
+
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-marcos-da-silva-71061b23a/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511964451339)
+[![Portfolio](https://img.shields.io/badge/Portfólio-em_breve...-bc8cff?style=for-the-badge&logo=Firefox&logoColor=white)](#)
+
+
+
+
+---
+
 ### status
 
 🟢 disponível para projetos   🟣 aberta a colabs   🔵 sempre construindo algo novo
